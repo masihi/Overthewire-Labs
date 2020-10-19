@@ -4,7 +4,7 @@ Solutions to the labs
 ## Bandit
 
 I have a script to solve most levels automatically. 
-There are some to difficult to make where I simply commented the solution and added the password to the solutions file.
+There are some to difficult too make where I simply commented the solution and added the password to the solutions file.
 
 install sshpass to execute script (works on Linux)
 
